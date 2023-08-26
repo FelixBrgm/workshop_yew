@@ -8,5 +8,5 @@
 	"extensions": [
 		"PKief.material-icon-theme"
 	],
-	"workspaceFolder": "/workspaces/workshop/source" // change 42-ft_transendence to name of repo when copied
+	"workspaceFolder": "/workspaces/workshop_yew/source" // change 42-ft_transendence to name of repo when copied
 }

@@ -1,0 +1,11 @@
+/workspaces/workshop_yew/source/target/debug/deps/serde_wasm_bindgen-60de40470613b2a8.rmeta: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/de.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/ser.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/../README.md
+
+/workspaces/workshop_yew/source/target/debug/deps/libserde_wasm_bindgen-60de40470613b2a8.rlib: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/de.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/ser.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/../README.md
+
+/workspaces/workshop_yew/source/target/debug/deps/serde_wasm_bindgen-60de40470613b2a8.d: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/de.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/ser.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/../README.md
+
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/de.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/error.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/ser.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.5.0/src/../README.md:
