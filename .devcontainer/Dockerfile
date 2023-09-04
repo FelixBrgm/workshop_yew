@@ -8,7 +8,7 @@ RUN rustup target add wasm32-unknown-unknown
 
 RUN cargo install --locked trunk
 
-RUN git clone https://github.com/FelixBrgm/.unix.git ~/.unix
+RUN git clone https://github.com/FelixBrgm/.dotfiles.git ~/.unix
 
 RUN cd ~/.unix && \
     chmod 777 ./setup.sh && \
